@@ -5,7 +5,6 @@ I'm Ashmit.
 I enjoy building things with code, and continuously learning new things.
 
 💻 Passionate about creating web and mobile applications.
-
 📚 Strong believer in self-learning and lifelong growth.
 
 🚀 Always striving to become a better version of myself than I was yesterday.
