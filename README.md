@@ -1,9 +1,16 @@
 # 💫 About Me
 
-Passionate Frontend Developer with 2+ years of experience building modern, responsive, and high-performance web applications. Skilled in Next.js, React.js, React Native, JavaScript, Tailwind CSS, HTML, and CSS.
+I'm Ashmit.
 
-Experienced in API integrations, secure proxy-layer communication with backend services, scalable frontend architecture, advanced animations using GSAP and Framer Motion, and performance optimization. Focused on delivering secure, maintainable, SEO-friendly, and user-centric digital experiences.
+I enjoy building things with code, and continuously learning new things.
 
+💻 Passionate about creating web and mobile applications.
+📚 Strong believer in self-learning and lifelong growth.
+🚀 Always striving to become a better version of myself than I was yesterday.
+🌱 Currently exploring new technologies, building projects, and expanding my knowledge every day.
+💬 Open to connecting with fellow developers, creators, and lifelong learners.
+
+"Act like the person you want to become until you become that person." - best manifesting technique
 ---
 
 ## 🌐 Connect With Me
