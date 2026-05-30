@@ -2,7 +2,7 @@
 
 Heyyoo, I'm Ashmit. Good to see you
 
-- 💻 Passionate about building web and mobile applications.
+- 💻 Passionate about building web applications.
 - 📚 Strong believer in self-learning and lifelong growth.
 - 🚀 Always striving to become a better version of myself than I was yesterday.
 - 🌱 Continuously exploring new technologies, building projects, and expanding my knowledge.
