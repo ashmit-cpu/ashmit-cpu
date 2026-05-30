@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I'm Ashmit.
+Heyyoo, I'm Ashmit. Good to see you
 
 - 💻 Passionate about building web and mobile applications.
 - 📚 Strong believer in self-learning and lifelong growth.
