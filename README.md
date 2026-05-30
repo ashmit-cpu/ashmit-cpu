@@ -2,18 +2,14 @@
 
 I'm Ashmit.
 
-I enjoy building things with code, and continuously learning new things.
+- 💻 Passionate about building web and mobile applications.
+- 📚 Strong believer in self-learning and lifelong growth.
+- 🚀 Always striving to become a better version of myself than I was yesterday.
+- 🌱 Continuously exploring new technologies, building projects, and expanding my knowledge.
+- 🎵 Music and coding are two things I can never get enough of.
+- 💬 Open to connecting with fellow developers, creators, and lifelong learners.
 
-💻 Passionate about creating web and mobile applications.
-📚 Strong believer in self-learning and lifelong growth.
-
-🚀 Always striving to become a better version of myself than I was yesterday.
-
-🌱 Currently exploring new technologies, building projects, and expanding my knowledge every day.
-
-💬 Open to connecting with fellow developers, creators, and lifelong learners.
-
-"Act like the person you want to become until you become that person." - best manifesting technique
+> 💭 "Act like the person you want to become until you become that person." - best manifesting technique
 ---
 
 ## 🌐 Connect With Me
