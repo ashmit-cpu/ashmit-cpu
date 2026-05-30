@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Frontend Developer with 2+ years of experience building modern, responsive, and high-performance web and mobile applications.
+Frontend Developer with 2+ years of experience building modern, responsive, and high-performance web applications.
 
 Specialized in Next.js, React.js, React Native, JavaScript, and Tailwind CSS, with hands-on experience in API integrations, TanStack Query, secure proxy-layer communication, scalable frontend architecture, advanced animations using GSAP and Framer Motion, and performance optimization.
 
